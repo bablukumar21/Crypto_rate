@@ -39,7 +39,7 @@ function App() {
           symbol={coin.symbol}
           marketcap={coin.market_cap}
           price={coin.current_price}
-          pricechange={coin.price_change_percentage_24h}
+          
 
           />
         );
